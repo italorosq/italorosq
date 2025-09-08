@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://placehold.co/1280x300/1a1a1a/FFFFFF/png?text=Robótica+%7C+Automação+%7C+Aeroespacial" alt="Banner com os temas Robótica, Automação e Aeroespacial"/>
+  <img src="https://https://i.pinimg.com/originals/3c/9d/88/3c9d88bcd746039864613a05959149d5.gif" alt="Banner com os temas Robótica, Automação e Aeroespacial"/>
 </p>
 <h1 align="center">Olá! Ítalo Rosa Gonçalves 👋</h1>
 

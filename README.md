@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://placehold.co/1280x300/1a1a1a/FFFFFF/png?text=Robótica+%7C+Automação+%7C+Aeroespacial" alt="Banner com os temas Robótica, Automação e Aeroespacial"/>
+  <img src="https://raw.githubusercontent.com/italorosq/italorosq/main/assets/banner.png" alt="Banner com os temas Robótica, Automação e Aeroespacial"/>
 </p>
 
 # Olá, eu sou Ítalo Rosa Gonçalves! 👋
@@ -43,8 +43,8 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
 <p align="center">
   <a href="https://github.com/italorosq">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=italorosq&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italorosq&layout=compact&langs_count=7&theme=dracula"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=italorosq&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=italorosq&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </p>
 
@@ -52,15 +52,8 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
 ## 🐍 Animação da Cobra de Contribuições
 
-<!-- 
-Para que esta animação funcione, você precisa configurar uma GitHub Action no seu repositório de perfil.
-1. Crie um repositório público com o mesmo nome do seu usuário: italorosq/italorosq.
-2. Crie uma pasta chamada `.github/workflows` dentro deste repositório.
-3. Dentro dela, crie um arquivo chamado `snake.yml` e adicione o código para a Action 'platane/snk'.
-Você pode encontrar instruções detalhadas aqui: https://github.com/platane/snk
--->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/italorosq/italorosq/output/github-contribution-grid-snake.svg" alt="Animação da cobra de contribuições do GitHub"/>
+    <img src="https://raw.githubusercontent.com/Trinib/Trinib/main/assets/images/grid-snake.svg" alt="snake" style="max-width: 100%;">
 </p>
 
 ---

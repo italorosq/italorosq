@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/italorosq/italorosq/main/assets/banner.png" alt="Banner com os temas Robótica, Automação e Aeroespacial"/>
+  <img src="https://placehold.co/1280x300/1a1a1a/FFFFFF/png?text=Robótica+%7C+Automação+%7C+Aeroespacial" alt="Banner com os temas Robótica, Automação e Aeroespacial"/>
 </p>
 
 # Olá, eu sou Ítalo Rosa Gonçalves! 👋
@@ -30,8 +30,6 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
   <a href="https://www.autodesk.com/products/fusion-360/overview" target="_blank">
     <img src="https://img.shields.io/badge/Fusion%20360-A62024?style=for-the-badge&logo=autodeskfusion360&logoColor=white" alt="Fusion 360"/>
   </a>
-  <!-- Adicione mais badges de habilidades aqui -->
-  <!-- Exemplo: <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> -->
 </p>
 
 ---
@@ -43,8 +41,8 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
 <p align="center">
   <a href="https://github.com/italorosq">
-    <img src="https://github-readme-stats.vercel.app/api?username=italorosq&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=italorosq&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=italorosq&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italorosq&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </p>
 
@@ -52,11 +50,13 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
 ## 🐍 Animação da Cobra de Contribuições
 
+
+-->
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Trinib/Trinib/main/assets/images/grid-snake.svg" alt="snake" style="max-width: 100%;">
+  <img src="https://raw.githubusercontent.com/italorosq/italorosq/output/github-contribution-grid-snake.svg" alt="Animação da cobra de contribuições do GitHub"/>
 </p>
 
----
+
 
 ## 📫 Como me encontrar
 
@@ -72,5 +72,5 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
   <a href="https://www.instagram.com/italors_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <!-- Adicione mais links de contato aqui -->
+
 </p>

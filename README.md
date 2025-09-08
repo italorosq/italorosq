@@ -47,7 +47,6 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
 ---
 
-## 🐍 Animação da Cobra de Contribuições
 
 
 -->

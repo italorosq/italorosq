@@ -1,8 +1,7 @@
 <p align="center">
   <img src="https://placehold.co/1280x300/1a1a1a/FFFFFF/png?text=Robótica+%7C+Automação+%7C+Aeroespacial" alt="Banner com os temas Robótica, Automação e Aeroespacial"/>
 </p>
-
-# Olá, eu sou Ítalo Rosa Gonçalves! 👋
+<h1 align="center">Olá! Ítalo Rosa Gonçalves 👋</h1>
 
 ## 👨‍💻 Sobre Mim
 - 🎓 Estudante de Engenharia da Computação no **IPRJ**.

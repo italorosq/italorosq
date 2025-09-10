@@ -58,7 +58,7 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
 ## 📫 Como me encontrar
 
-*Você pode me encontrar nestas plataformas. Vamos nos conectar!*
+*Você pode me encontrar nestas plataformas.
 
 <p align="left">
   <a href="mailto:italorosagoncalves@gmail.com" target="_blank">

@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://https://i.pinimg.com/originals/3c/9d/88/3c9d88bcd746039864613a05959149d5.gif" alt="Banner com os temas Robótica, Automação e Aeroespacial"/>
 </p>
-<h1 align="center">Olá! Ítalo Rosa Gonçalves 👋</h1>
+
 
 ## 👨‍💻 Sobre Mim
 - 🎓 Estudante de Engenharia da Computação no **IPRJ**.

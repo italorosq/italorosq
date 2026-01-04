@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/3c/9d/88/3c9d88bcd746039864613a05959149d5.gif."/>
+  <img src="https://i.pinimg.com/originals/3c/9d/88/3c9d88bcd746039864613a05959149d5.gif" alt="Banner com os temas Robótica, Automação e Aeroespacial"/>
 </p>
 
 
@@ -40,7 +40,7 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
 <p align="center">
   <a href="https://github.com/italorosq">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=italorosq&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
   </a>
 </p>

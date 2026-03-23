@@ -2,19 +2,25 @@
   <img src="https://i.pinimg.com/originals/3c/9d/88/3c9d88bcd746039864613a05959149d5.gif" alt="Banner com os temas Robótica, Automação e Aeroespacial"/>
 </p>
 
+<h1 align="center">Olá, eu sou o Ítalo Rosa 👋</h1>
+
+<p align="center">
+  Estudante de Engenharia da Computação | Robótica, Automação e Desenvolvimento de Software
+</p>
+
 
 ## 👨‍💻 Sobre Mim
 - 🎓 Estudante de Engenharia da Computação no **IPRJ**.
-- 🌱 Atualmente explorando o universo do desenvolvimento de software e buscando novos desafios.
-- 🎯 Meu objetivo é construir um portfólio com projetos que demonstrem minhas habilidades e paixão por tecnologia.
-- 💡 Tenho grande interesse por **robótica, automação, foguetes e desenvolvimento de sistemas**.
-- 🐍 Focado em aprender e aplicar **Python** e **C++** em projetos inovadores.
+- 🌱 Explorando o universo do desenvolvimento de software e buscando novos desafios.
+- 🎯 Construindo um portfólio com projetos que demonstrem minhas habilidades e paixão por tecnologia.
+- 💡 Grande interesse por **robótica, automação, foguetes e desenvolvimento de sistemas**.
+- 🐍 Foco em **Python** e **C++**, com aplicação prática em projetos.
 
 ---
 
 ## 🚀 Habilidades e Tecnologias
 
-Aqui estão algumas das tecnologias com as quais tenho trabalhado:
+Algumas tecnologias com as quais tenho trabalhado:
 
 <p align="left">
   <a href="https://www.python.org" target="_blank">
@@ -33,23 +39,29 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
 ---
 
+## 📌 Foco Atual
+
+- Aprimorar base em estruturas de dados e algoritmos.
+- Desenvolver projetos práticos em Python e C++.
+- Evoluir em versionamento e colaboração com Git/GitHub.
+
+---
+
 ## 📂 Meus Projetos
 
+- Em breve vou destacar aqui os principais projetos do meu portfólio.
+- Enquanto isso, você pode acompanhar minha evolução pelos repositórios públicos.
 
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
   <a href="https://github.com/italorosq">
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=italorosq&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  
   </a>
 </p>
 
 ---
 
-
-
--->
 <p align="center">
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/italorosq/italorosq/output/pacman-contribution-graph-dark.svg">
@@ -62,7 +74,7 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
 ## 📫 Como me encontrar
 
-*Você pode me encontrar nestas plataformas.
+*Você pode me encontrar nestas plataformas:*
 
 <p align="left">
   <a href="mailto:italorosagoncalves@gmail.com" target="_blank">

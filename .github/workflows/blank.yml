@@ -23,6 +23,9 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
 
+      - name: ensure pacman dark svg exists
+        run: cp dist/pacman-contribution-graph.svg dist/pacman-contribution-graph-dark.svg
+
 
       - name: push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

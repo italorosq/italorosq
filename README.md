@@ -65,10 +65,7 @@ Uma amostra do que eu faço: **hardware, firmware e software aplicados a foguete
 
 <p align="center">
   <a href="https://github.com/italorosq">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=italorosq&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&v=2" alt="Estatísticas do GitHub de italorosq"/>
-  </a>
-  <a href="https://github.com/italorosq">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-languages/?username=italorosq&layout=compact&theme=dracula&v=2" alt="Linguagens mais usadas por italorosq"/>
+    <img src="https://raw.githubusercontent.com/italorosq/italorosq/output/userstats.svg" alt="Estatísticas do GitHub de italorosq" width="600"/>
   </a>
 </p>
 

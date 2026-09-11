@@ -21,6 +21,21 @@ jobs:
     timeout-minutes: 10
 
     steps:
+      - name: checkout
+        uses: actions/checkout@v4
+
+      # generates a detailed stats card (runs entirely on GitHub, no external service)
+      - name: generate user stats svg
+        uses: cicirello/user-statistician@v1
+        with:
+          image-file: dist/userstats.svg
+          colors: dark
+          include-title: false
+          locale: pt
+          commit-and-push: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       # generates a snake game from the user's contributions graph
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3

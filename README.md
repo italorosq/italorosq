@@ -44,33 +44,20 @@
 
 ---
 
-## 📂 Principais Projetos
+## 📂 Portfólio — Projetos em Destaque
 
-Aqui estão alguns dos projetos que mais representam meu trabalho e interesses — clique para ver detalhes, código e documentação.
+Uma amostra do que eu faço: **hardware, firmware e software aplicados a foguetes e sistemas embarcados**, como membro da equipe de foguetemodelismo **Serra Rocketry**.
 
-- [Serra Rocketry — ignitor](https://github.com/italorosq/ignitor)  
-  Projeto do ignitor para a equipe Serra Rocketry: código, documentação e modelos 3D; integração com microcontroladores. *(C++ / Python / documentação)*
+### 🚀 Serra Rocketry
 
-- [Serra Rocketry — thrust-stand](https://github.com/italorosq/thrust-stand)  
-  Bancada de teste (load cell) para medir empuxo de motores de foguete — firmware e manual de uso. *(C++ / eletrônica)*
+| Projeto | O que é | Stack |
+|---|---|---|
+| [**ignitor**](https://github.com/italorosq/ignitor) | Sistema de ignição para foguetes da equipe — código, documentação e modelos 3D, com integração a microcontroladores | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [**thrust-stand**](https://github.com/italorosq/thrust-stand) | Bancada de teste com load cell para medir o empuxo de motores de foguete — firmware completo e manual de uso | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Eletrônica](https://img.shields.io/badge/⚡-Eletr%C3%B4nica-F05032?style=flat-square) |
+| [**solid-propulsion**](https://github.com/italorosq/solid-propulsion) | Desenhos, especificações e dados brutos de motores sólidos — base para análise de propulsão | ![CAD](https://img.shields.io/badge/CAD-Fusion%20360-A62024?style=flat-square) ![Dados](https://img.shields.io/badge/Dados-CSV%20%2F%20G--code-4CAF50?style=flat-square) |
+| [**analysis**](https://github.com/italorosq/analysis) | Análise de dados e visualização de ensaios da equipe — notebooks e scripts em Python para tratamento dos dados | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
 
-- [solid-propulsion](https://github.com/italorosq/solid-propulsion)  
-  Desenhos, especificações e dados brutos de motores sólidos — recursos para análise de propulsão. *(CAD / G-code / dados)*
-
-- [analysis](https://github.com/italorosq/analysis)  
-  Projeto de Análise de Dados e Visualização (em Python) desenvolvido com a equipe Serra Rocketry — notebooks e scripts para tratamento/visualização de ensaios.
-
-- [Machine-learning](https://github.com/italorosq/Machine-learning)  
-  Notebooks com projetos de predição clínica usando Random Forest e MLP; técnicas de pré-processamento e otimização de hiperparâmetros.
-
-- [Girino](https://github.com/italorosq/Girino)  
-  Plataforma didática para ensino de controle de motores DC (microcontrolador, driver MOSFET, encoder) — ideal para laboratórios de controle.
-
-- [Robotic-arm](https://github.com/italorosq/Robotic-arm)  
-  Repositório com materiais e código relacionados a um braço robótico (controle e eletrônica).
-
-- [grinding-mill](https://github.com/italorosq/grinding-mill)  
-  Projeto em C++ relacionado a uma aplicação mecatrônica/controle (código e simulações).
+> 🔎 Os demais projetos (machine learning, braço robótico, controle de motores DC e mecatrônica) estão nos meus repositórios públicos.
 
 ---
 

@@ -9,6 +9,7 @@
 </p>
 
 ## 👨‍💻 Sobre Mim
+
 - 🎓 Estudante de Engenharia da Computação no **IPRJ**.
 - 🌱 Explorando desenvolvimento de software aplicado à robótica e propulsão.
 - 🎯 Construindo um portfólio com projetos práticos em Python, C++ e eletrônica embarcada.
@@ -17,6 +18,7 @@
 ---
 
 ## 🚀 Habilidades e Tecnologias
+
 <p align="left">
   <a href="https://www.python.org" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -35,6 +37,7 @@
 ---
 
 ## 📌 Foco Atual
+
 - Aprimorar estruturas de dados e algoritmos.
 - Projetos práticos em Python/C++ e sistemas embarcados.
 - Colaboração e versionamento com Git/GitHub.
@@ -42,16 +45,17 @@
 ---
 
 ## 📂 Principais Projetos
+
 Aqui estão alguns dos projetos que mais representam meu trabalho e interesses — clique para ver detalhes, código e documentação.
 
 - [Serra Rocketry — ignitor](https://github.com/italorosq/ignitor)  
-  Projeto do ignitor para a equipe Serra Rocketry: código, documentação e modelos 3D; integração com microcontroladores. (C++ / Python / documentação)
+  Projeto do ignitor para a equipe Serra Rocketry: código, documentação e modelos 3D; integração com microcontroladores. *(C++ / Python / documentação)*
 
 - [Serra Rocketry — thrust-stand](https://github.com/italorosq/thrust-stand)  
-  Bancada de teste (load cell) para medir empuxo de motores de foguete — firmware e manual de uso. (C++ / eletrônica)
+  Bancada de teste (load cell) para medir empuxo de motores de foguete — firmware e manual de uso. *(C++ / eletrônica)*
 
 - [solid-propulsion](https://github.com/italorosq/solid-propulsion)  
-  Desenhos, especificações e dados brutos de motores sólidos — recursos para análise de propulsão. (CAD / G-code / dados)
+  Desenhos, especificações e dados brutos de motores sólidos — recursos para análise de propulsão. *(CAD / G-code / dados)*
 
 - [analysis](https://github.com/italorosq/analysis)  
   Projeto de Análise de Dados e Visualização (em Python) desenvolvido com a equipe Serra Rocketry — notebooks e scripts para tratamento/visualização de ensaios.
@@ -71,25 +75,30 @@ Aqui estão alguns dos projetos que mais representam meu trabalho e interesses �
 ---
 
 ## 📊 Estatísticas do GitHub
+
 <p align="center">
   <a href="https://github.com/italorosq">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=italorosq&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=italorosq&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de italorosq"/>
+  </a>
+  <a href="https://github.com/italorosq">
+    <img height="180em" src="https://streak-stats.demolab.com/?user=italorosq&theme=dracula&locale=pt_BR" alt="Sequência de commits de italorosq"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/italorosq/italorosq/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/italorosq/italorosq/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/italorosq/italorosq/output/pacman-contribution-graph.svg">
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/italorosq/italorosq/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/italorosq/italorosq/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/italorosq/italorosq/output/pacman-contribution-graph.svg">
+  </picture>
 </p>
 
 ---
 
 ## 📫 Como me encontrar
+
 *Você pode me encontrar nestas plataformas:*
 
 <p align="left">

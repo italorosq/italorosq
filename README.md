@@ -78,7 +78,7 @@ Aqui estão alguns dos projetos que mais representam meu trabalho e interesses �
 
 <p align="center">
   <a href="https://github.com/italorosq">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=italorosq&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de italorosq"/>
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=italorosq&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de italorosq"/>
   </a>
   <a href="https://github.com/italorosq">
     <img height="180em" src="https://streak-stats.demolab.com/?user=italorosq&theme=dracula&locale=pt_BR" alt="Sequência de commits de italorosq"/>

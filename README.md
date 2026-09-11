@@ -8,20 +8,15 @@
   Estudante de Engenharia da Computação | Robótica, Automação e Desenvolvimento de Software
 </p>
 
-
 ## 👨‍💻 Sobre Mim
 - 🎓 Estudante de Engenharia da Computação no **IPRJ**.
-- 🌱 Explorando o universo do desenvolvimento de software e buscando novos desafios.
-- 🎯 Construindo um portfólio com projetos que demonstrem minhas habilidades e paixão por tecnologia.
-- 💡 Grande interesse por **robótica, automação, foguetes e desenvolvimento de sistemas**.
-- 🐍 Foco em **Python** e **C++**, com aplicação prática em projetos.
+- 🌱 Explorando desenvolvimento de software aplicado à robótica e propulsão.
+- 🎯 Construindo um portfólio com projetos práticos em Python, C++ e eletrônica embarcada.
+- 💡 Interesse por **robótica, automação, foguetes e sistemas embarcados**.
 
 ---
 
 ## 🚀 Habilidades e Tecnologias
-
-Algumas tecnologias com as quais tenho trabalhado:
-
 <p align="left">
   <a href="https://www.python.org" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -40,20 +35,42 @@ Algumas tecnologias com as quais tenho trabalhado:
 ---
 
 ## 📌 Foco Atual
-
-- Aprimorar base em estruturas de dados e algoritmos.
-- Desenvolver projetos práticos em Python e C++.
-- Evoluir em versionamento e colaboração com Git/GitHub.
+- Aprimorar estruturas de dados e algoritmos.
+- Projetos práticos em Python/C++ e sistemas embarcados.
+- Colaboração e versionamento com Git/GitHub.
 
 ---
 
-## 📂 Meus Projetos
+## 📂 Principais Projetos
+Aqui estão alguns dos projetos que mais representam meu trabalho e interesses — clique para ver detalhes, código e documentação.
 
-- Em breve vou destacar aqui os principais projetos do meu portfólio.
-- Enquanto isso, você pode acompanhar minha evolução pelos repositórios públicos.
+- [Serra Rocketry — ignitor](https://github.com/italorosq/ignitor)  
+  Projeto do ignitor para a equipe Serra Rocketry: código, documentação e modelos 3D; integração com microcontroladores. (C++ / Python / documentação)
+
+- [Serra Rocketry — thrust-stand](https://github.com/italorosq/thrust-stand)  
+  Bancada de teste (load cell) para medir empuxo de motores de foguete — firmware e manual de uso. (C++ / eletrônica)
+
+- [solid-propulsion](https://github.com/italorosq/solid-propulsion)  
+  Desenhos, especificações e dados brutos de motores sólidos — recursos para análise de propulsão. (CAD / G-code / dados)
+
+- [analysis](https://github.com/italorosq/analysis)  
+  Projeto de Análise de Dados e Visualização (em Python) desenvolvido com a equipe Serra Rocketry — notebooks e scripts para tratamento/visualização de ensaios.
+
+- [Machine-learning](https://github.com/italorosq/Machine-learning)  
+  Notebooks com projetos de predição clínica usando Random Forest e MLP; técnicas de pré-processamento e otimização de hiperparâmetros.
+
+- [Girino](https://github.com/italorosq/Girino)  
+  Plataforma didática para ensino de controle de motores DC (microcontrolador, driver MOSFET, encoder) — ideal para laboratórios de controle.
+
+- [Robotic-arm](https://github.com/italorosq/Robotic-arm)  
+  Repositório com materiais e código relacionados a um braço robótico (controle e eletrônica).
+
+- [grinding-mill](https://github.com/italorosq/grinding-mill)  
+  Projeto em C++ relacionado a uma aplicação mecatrônica/controle (código e simulações).
+
+---
 
 ## 📊 Estatísticas do GitHub
-
 <p align="center">
   <a href="https://github.com/italorosq">
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=italorosq&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -70,10 +87,9 @@ Algumas tecnologias com as quais tenho trabalhado:
 </picture>
 </p>
 
-
+---
 
 ## 📫 Como me encontrar
-
 *Você pode me encontrar nestas plataformas:*
 
 <p align="left">
@@ -86,5 +102,4 @@ Algumas tecnologias com as quais tenho trabalhado:
   <a href="https://www.instagram.com/italors_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-
 </p>
